@@ -3,6 +3,7 @@
 import sys
 import re
 
+# Usage: bash prob21.sh | python prob22.py
 # [[Category:英連邦王国|*]]
 
 for line in sys.stdin:
